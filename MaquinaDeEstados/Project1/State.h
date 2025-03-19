@@ -44,10 +44,9 @@ public:
 
 	void ChangeState(char input)
 	{
-		
 		switch (input)
 		{
-			case 'A':
+			case 'a':
 				switch (currentState)
 					{
 					case State::DUCKING:
@@ -66,7 +65,7 @@ public:
 					}
 					break;
 
-			case 'B':
+			case 'b':
 				switch (currentState)
 				{
 				case State::STANDING:

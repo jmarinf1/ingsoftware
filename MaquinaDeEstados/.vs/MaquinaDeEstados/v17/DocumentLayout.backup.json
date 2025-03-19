@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AC69DF5-A68F-45A8-8966-54A82025125B}|Project1\\Project1.vcxproj|C:\\Users\\jorge.marin1\\OneDrive - U-tad\\MasterPAVJ\\Practicas\\Ingenieria Del Software\\ingsoftware\\MaquinaDeEstados\\Project1\\State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5AC69DF5-A68F-45A8-8966-54A82025125B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\State.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC69DF5-A68F-45A8-8966-54A82025125B}|Project1\\Project1.vcxproj|C:\\Users\\jorge.marin1\\OneDrive - U-tad\\MasterPAVJ\\Practicas\\Ingenieria Del Software\\ingsoftware\\MaquinaDeEstados\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AC69DF5-A68F-45A8-8966-54A82025125B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge.marin1\\OneDrive - U-tad\\MasterPAVJ\\Practicas\\Ingenieria Del Software\\ingsoftware\\MaquinaDeEstados\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\jorge.marin1\\OneDrive - U-tad\\MasterPAVJ\\Practicas\\Ingenieria Del Software\\ingsoftware\\MaquinaDeEstados\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T20:51:47.624Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Project1\\State.h",
               "ToolTip": "C:\\Users\\jorge.marin1\\OneDrive - U-tad\\MasterPAVJ\\Practicas\\Ingenieria Del Software\\ingsoftware\\MaquinaDeEstados\\Project1\\State.h*",
               "RelativeToolTip": "Project1\\State.h*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-19T20:27:25.863Z",
               "EditorCaption": ""

@@ -1,7 +1,9 @@
 #include "State.h"
 #include <iostream>
+#include <windows.h>
 
-
+#pragma comment(lib, "user32");
+#define GetKey(X) (!!(GetAsyncKeyState(0[#X])&08000))
 
 int main()
 {
@@ -12,6 +14,7 @@ int main()
 	printf(" d = ducking \n s = standing \n j = jumping \n D = diving \n");
 	while (true)
 	{
+		
 		std::cin >> input;
 		maquinaestados.ChangeState(input);
 		maquinaestados.Update();
